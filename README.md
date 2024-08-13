@@ -1,6 +1,6 @@
 # Project Name
 
-This project called Gaming Scout. This project is created to fulfill final project at Hactiv8 and part of my personal portofolio in Data Science. My other personal project can be found at the [Nyoman Yudis Developer](https://github.com/nyomanyudisdeveloper)
+This project called Gaming Scout. This project is created to fulfill final project at Hactiv8 and part of my personal portofolio in Data Science.
 
 #### -- Project Status: On-Hold
 
